@@ -1,2 +1,3 @@
-# DesafioGit
-Desafio Git - Bootcamp Inter FrontEnd Developer
+# Bootcamp Inter FrontEnd Developer
+Repositório criado para o Desafio Git
+
